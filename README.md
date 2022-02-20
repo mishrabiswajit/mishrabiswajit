@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Biswajit Mishra
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Biswajit Mishra!</h2>
+
 - 👀 I’m interested in pretty much everything regarding android and programming .
 - 🌱 I’m currently learning C/C++ and I know python(basics).
 - 💞️ I’m trying to master C/C++ and Android Development.
@@ -7,7 +8,13 @@
 - 📫 You can contact me via Telegram (https://t.me/yourdeathiswaitingforyou) or via email (mishrabiswajit660@gmail.com)
 - ⚽ Future goal : To achieve something in life which will make my parents feel proud.
 
-
+### ⚙️ &nbsp;Biswajit's GitHub Analytics
+<p align="center">
+<a href="https://github.com/mishrabiswajit">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mishrabiswajit&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mishrabiswajit&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
 <!---
 mishrabiswajit/mishrabiswajit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
