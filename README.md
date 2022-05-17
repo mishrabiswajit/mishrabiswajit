@@ -1,7 +1,7 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Biswajit Mishra!</h2>
 
 - 👀 I’m interested in pretty much everything regarding android and programming .
-- 🌱 I’m currently learning C++ and I know C and python(basics).
+- 🌱 I know C,C++ and python(basics).
 - 💞️ I’m trying to master C/C++ and Android Development.
 - 📱 Devices I own are Realme 5i , Lenovo tab 4 10 and Infocus Turbo 5 Plus.
 - 📱 I'm maintaining Realme 5 Series for AwakenOS.
