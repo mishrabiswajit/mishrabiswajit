@@ -10,8 +10,8 @@
 ### ⚙️ &nbsp;Biswajit's GitHub Analytics
 <p align="center">
 <a href="https://github.com/mishrabiswajit">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mishrabiswajit&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mishrabiswajit&theme=redical">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mishrabiswajit&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://activity-graph.herokuapp.com/graph?username=mishrabiswajit&theme=redical">
 </a>
 </p>
 <br />
