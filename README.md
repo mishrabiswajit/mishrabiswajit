@@ -8,7 +8,7 @@
 - ⚽ Future goal : To achieve something in life which will make my parents feel proud.
 
 ### ⚙️ &nbsp;Biswajit's GitHub Analytics
-<p align="center">
+<p align="left">
 <a href="https://github.com/mishrabiswajit">
 <img height="180em" width="450" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mishrabiswajit&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 <img height="180em" width="450" src="https://activity-graph.herokuapp.com/graph?username=mishrabiswajit&theme=redical">
