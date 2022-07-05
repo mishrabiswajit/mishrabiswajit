@@ -11,8 +11,16 @@
 <p align="center">
 <a href="https://github.com/mishrabiswajit">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mishrabiswajit&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mishrabiswajit&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=mishrabiswajit&theme=redical">
 </a>
+</p>
+<br />
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=misrhrabiswajit&style=flat-square"/>
+ <img src="https://badges.pufler.dev/years/misrhrabiswajit"/>
+ <img src="https://badges.pufler.dev/repos/misrhrabiswajit"/>
+ <img src="https://badges.pufler.dev/commits/monthly/misrhrabiswajit"/>
 </p>
 <!---
 mishrabiswajit/mishrabiswajit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
