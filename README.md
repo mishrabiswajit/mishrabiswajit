@@ -15,13 +15,6 @@
 </a>
 </p>
 <br />
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=misrhrabiswajit&style=flat-square"/>
- <img src="https://badges.pufler.dev/years/misrhrabiswajit"/>
- <img src="https://badges.pufler.dev/repos/misrhrabiswajit"/>
- <img src="https://badges.pufler.dev/commits/monthly/misrhrabiswajit"/>
-</p>
 <!---
 mishrabiswajit/mishrabiswajit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
