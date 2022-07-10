@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://github.com/mishrabiswajit">
 <img height="180em" width="450" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mishrabiswajit&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="160em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrabiswajit&show_icons=true&locale=en&layout=compact" alt="mishrabiswajit" />
+<img align="right" height="160em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrabiswajit&show_icons=true&locale=en&layout=compact" alt="mishrabiswajit" />
 <img height="200em" width="500" src="https://activity-graph.herokuapp.com/graph?username=mishrabiswajit&theme=redical">
 </a>
 </p>
